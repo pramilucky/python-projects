@@ -1,2 +1,2 @@
 # python-projects
-these are my python projects in python
+these are my python projects 
